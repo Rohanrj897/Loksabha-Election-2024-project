@@ -1,1 +1,1 @@
-# Loksabha-Election-2024-project
+# Loksabha-Election-2024-Python project
